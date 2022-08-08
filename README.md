@@ -46,4 +46,19 @@ Two datasets were created using MCCD and Miner-XenForo and are ready to be used.
 
 ## Citation
 
-Waiting for publication.
+```
+Sanches, M.; C. de Sá, J.; M. de Souza, A.; Silva, D.; R. de Souza, R.; Reis, J. and Villas, L. (2022). MCCD: Generating Human Natural Language Conversational Datasets. In Proceedings of the 24th International Conference on Enterprise Information Systems - Volume 2: ICEIS, ISBN 978-989-758-569-2; ISSN 2184-4992, pages 247-255. DOI: 10.5220/0011077400003179
+```
+
+```@conference{mccd-iceis22,
+author={Matheus Sanches. and Jader {C. de Sá}. and Allan {M. de Souza}. and Diego Silva. and Rafael {R. de Souza}. and Julio Reis. and Leandro Villas.},
+title={MCCD: Generating Human Natural Language Conversational Datasets},
+booktitle={Proceedings of the 24th International Conference on Enterprise Information Systems - Volume 2: ICEIS,},
+year={2022},
+pages={247-255},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0011077400003179},
+isbn={978-989-758-569-2},
+issn={2184-4992},
+}```
